@@ -1,6 +1,6 @@
 ## [포도청 - 한국형 USER NAME OSINT 도구]()
 
-- [한국 특화 정보 데이터셋](https://github.com/Grape-Office/Grape-data)   
+- [한국 특화 사이트 데이터셋](https://github.com/Grape-Office/Grape-data)   
 - [포도청 - 한국형 USER NAME OSINT 도구](https://github.com/Grape-Office/Grape-Project)  
 
 ## Overview
